@@ -1,7 +1,7 @@
 #Setup script made by Mathew Boston
 
 Installing:
-Copy setup folder to desired location and run Promt2Setup.sh
+Clone git repository to desired location and run Promt2Setup.sh
 You will be asked for your password once to allow some installs if needed and to edit configs
 If you have more than one IP, you will be asked to choose one
 
