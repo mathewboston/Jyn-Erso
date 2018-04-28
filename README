@@ -1,0 +1,12 @@
+#Setup script made by Mathew Boston
+
+Installing:
+Copy setup folder to desired location and run Promt2Setup.sh
+You will be asked for your password once to allow some installs if needed and to edit configs
+If you have more than one IP, you will be asked to choose one
+
+Usage:
+After the script finishes, you can now clone the git repository located at /home/admin/admin.git
+You will be able to push scripts to the git server
+ex. git clone admin@serverip:/home/admin/admin.git
+Any output from scripts ending in .sh will be displayed at https://serverip
